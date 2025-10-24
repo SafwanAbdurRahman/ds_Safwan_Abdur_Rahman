@@ -45,8 +45,8 @@ See `ds_report.pdf` for a summarized report of methodology, analysis, and charts
 ---
 
 ## 🔗 Colab Links
-- [notebook_1.ipynb](YOUR_COLAB_LINK_1)  
-- [notebook_2.ipynb](YOUR_COLAB_LINK_2)  
+https://colab.research.google.com/drive/11q7GlOxPUUO1hG-8777S325wRKmJzc_A?usp=sharing
+https://colab.research.google.com/drive/1xI2k6bPOX2Kc81eJ9K3rSX_xhkArE9zY?usp=sharing
 
 > Make sure both Colab notebooks are set to **“Anyone with the link can view.”**
 
